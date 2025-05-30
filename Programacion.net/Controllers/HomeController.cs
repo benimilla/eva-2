@@ -17,7 +17,6 @@ namespace Programacion.net.Controllers
         {
             return View();
 
-            eeeeaaaaaaaa
         }
 
         public IActionResult Privacy()
