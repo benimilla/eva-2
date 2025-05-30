@@ -1,6 +1,6 @@
 ﻿namespace Programacion.net.Models
 {
-    public class Servicio
+    public class servicio
     {
         public int Id { get; set; }
         public string Nombre { get; set; }
