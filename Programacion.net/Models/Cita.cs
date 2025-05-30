@@ -1,6 +1,6 @@
 ﻿namespace Programacion.net.Models
 {
-    public class cita
+    public class Cita
     {
         public int Id { get; set; }
         public int clienteId { get; set; }
