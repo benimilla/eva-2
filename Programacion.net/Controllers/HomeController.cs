@@ -14,8 +14,10 @@ namespace Programacion.net.Controllers
         }
 
         public IActionResult Index()
-        {eeee
+        {
             return View();
+
+            eeeeaaaaaaaa
         }
 
         public IActionResult Privacy()
